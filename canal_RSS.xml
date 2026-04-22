@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Tendencias en Tecnología Móvil</title>
+    <link>https://www.techtendencias.com</link>
+    <description>Noticias y novedades sobre smartphones, apps y gadgets móviles</description>
+    <language>es-es</language>
+    <managingEditor>icruz.o2687@alu.fpoceano.com (Iván Cruz)</managingEditor>
+    <copyright>© 2026 TechTendencias</copyright>
+
+    <item>
+      <title>El futuro de los smartphones plegables</title>
+      <link>https://www.techtendencias.com/telefonia</link>
+      <description>Analizamos cómo evolucionan los dispositivos plegables en 2026. Repasamos
+        las <![CDATA[ <strong>principales marcas </strong>]]>que ofrecen este tipo de terminales.
+      </description>
+      <enclosure
+        url="https://www.techtendencias.com/guid_12012026.jpg"
+        length="140324"
+        type="image/jpeg"/>
+      <pubDate>Mon, 12 Jan 2026 10:00:00 GMT</pubDate>
+      <author>xavitech@techtendencias.com (Xavi Gonzalez)</author>
+      <category>smartphones</category>
+      <category>tendencias</category>
+      <guid isPermaLink="false">12012026</guid>
+    </item>
+
+    <item>
+      <title>Android 16: novedades más importantes</title>
+      <link>https://www.techtendencias.com/android</link>
+      <description>Repaso a las funciones de la nueva actualización del <![CDATA[ <strong>mundialmente</strong>]]> conocido sistema operativo.</description>
+      <enclosure
+        url="https://www.techtendencias.com/guid_19012026.jpg"
+        length="140324"
+        type="image/jpeg"/>
+      <pubDate>Mon, 19 Jan 2026 10:00:00 GMT</pubDate>
+      <author>m.aguilar@techtendencias.com (María Aguilar)</author>
+      <category>smartphones</category>
+      <category>android</category>
+      <guid isPermaLink="false">19012026</guid>
+    </item>
+
+    <item>
+      <title>iOS mejora la privacidad en apps</title>
+      <link>https://www.techtendencias.com/apple</link>
+      <description><![CDATA[Nuevas herramientas para proteger tus datos:<br>
+         <em>Hablamos del nuevo sistema anti rastreo que quiere incorporar la marca en sus nuevas actualizaciones</em>]]></description>
+      <enclosure
+        url="https://www.techtendencias.com/guid_26012026.jpg"
+        length="140324"
+        type="image/jpeg"/>
+      <pubDate>Mon, 26 Jan 2026 10:00:00 GMT</pubDate>
+      <author>salinas@techtendencias.com (Saul Salinas)</author>
+      <category>apple</category>
+      <category>seguridad</category>
+      <guid isPermaLink="false">26012026</guid>
+    </item>
+
+    <item>
+      <title>Top apps de productividad móvil</title>
+      <link>https://www.techtendencias.com/apps</link>
+      <description>Ranking de <![CDATA[ <strong>las mejores app </strong>]]> tanto para android como para ios que te harán el día a día más fácil</description>
+      <enclosure
+        url="https://www.techtendencias.com/guid_2022026.jpg"
+        length="140324"
+        type="image/jpeg"/>
+      <pubDate>Mon, 2 Feb 2026 10:00:00 GMT</pubDate>
+      <author>xavitech@techtendencias.com (Xavi Gonzalez)</author>
+      <category>productividad</category>
+      <category>android</category>
+      <category>apple</category>
+      <guid isPermaLink="false">2022026</guid>
+    </item>
+
+    <item>
+      <title>6G: ¿Verdad o mito?</title>
+      <link>https://www.techtendencias.com/6g</link>
+      <description>Resumen todo lo que sabemos sobre 6G:
+        <![CDATA[
+        <ul>
+          <li>Lo que esta por llegar </li>
+          <li>Capacidades europeas para asumir la nueva tecnología </li>
+          <li>Impacto social y económico </li>
+        </ul>
+        ]]> </description>
+      <enclosure
+        url="https://www.techtendencias.com/guid_9022026.jpg"
+        length="140324"
+        type="image/jpeg"/>
+      <pubDate>Mon, 9 Feb 2026 10:00:00 GMT</pubDate>
+      <author>xavitech@techtendencias.com (Xavi Gonzalez)</author>
+      <category>redes</category>
+      <category>internet</category>
+      <category>futuro</category>
+      <guid isPermaLink="false">9022026</guid>
+    </item>
+
+    <item>
+      <title>Mejores baterías para smartphones</title>
+      <link>https://www.techtendencias.com/baterias</link>
+      <description>Analizamos los tipos de baterías disponibles en el mercado
+        y que hay de cierto en la obsolescencia programada.</description>
+      <enclosure
+        url="https://www.techtendencias.com/guid_16022026.jpg"
+        length="140324"
+        type="image/jpeg"/>
+      <pubDate>Mon, 16 Feb 2026 10:00:00 GMT</pubDate>
+      <author>xavitech@techtendencias.com (Xavi Gonzalez)</author>
+      <category>baterias</category>
+      <category>tablets</category>
+      <category>telefonia</category>
+      <guid isPermaLink="false">16022026</guid>
+    </item>
+
+    <item>
+      <title>IA y Evolución</title>
+      <link>https://www.techtendencias.com/ia</link>
+      <description>Resumen de la evolución de la IA en los últimos años y como está instalada en nuestras rutinas.</description>
+      <enclosure
+        url="https://www.techtendencias.com/guid_23022026.jpg"
+        length="140324"
+        type="image/jpeg"/>
+      <pubDate>Mon, 23 Feb 2026 10:00:00 GMT</pubDate>
+      <author>m.aguilar@techtendencias.com (Maria Aguilar)</author>
+      <category>IA</category>
+      <category>telefonia</category>
+      <category>tendencia</category>
+      <guid isPermaLink="false">23022026</guid>
+    </item>
+
+    <item>
+      <title>Accesorios imprescindibles</title>
+      <link>https://www.techtendencias.com/accesorios</link>
+      <description>Repaso de los accesorios más top disponibles actualmente en el mercado y donde encontrarlos. 
+        <![CDATA[<a href="www.todogadgets.com/techtendencias target="_blank">Todo Gadgets</a>]]></description>
+      <enclosure
+        url="https://www.techtendencias.com/guid_2032026.jpg"
+        length="140324"
+        type="image/jpeg"/>
+      <pubDate>Mon, 2 Mar 2026 10:00:00 GMT</pubDate>
+      <author>salinas@techtendencias.com (Saul Salinas)</author>
+      <category>gadgets</category>
+      <category>tendencia</category>
+      <guid isPermaLink="false">2032026</guid>
+    </item>
+
+    <item>
+      <title>Seguridad en apps móviles</title>
+      <link>https://www.techtendencias.com/ciberseguridad</link>
+      <description>Hacemos una recopilación de los mejores tips para <![CDATA[<em>proteger los datos en tu terminal</description>em>]]></description>
+      <enclosure
+        url="https://www.techtendencias.com/guid_9032026.jpg"
+        length="140324"
+        type="image/jpeg"/>
+      <pubDate>Mon, 9 Mar 2026 10:00:00 GMT</pubDate>
+      <author>m.aguilar@techtendencias.com (Maria Aguilar)</author>
+      <category>telefonia</category>
+      <category>seguridad</category>
+      <category>consejos</category>
+      <guid isPermaLink="false">9032026</guid>
+    </item>
+
+    <item>
+      <title>MacBook Neo: ¿Merece la pena?</title>
+      <link>https://www.techtendencias.com/apple</link>
+      <description><![CDATA[<p>Analizamos en profundidad en nuevo lanzamiento de la mano de Apple:
+        <ul>
+          <li> Características según web oficial: <a href="https://www.apple.com" target="_blank">Apple</a></li>
+          <li> Ventajas y desventajas </li>
+          <li> Rendimiento y productividad </li>
+          <li> Precio </li>
+          <li> Valoración final: merece, o no, la pena </li>
+        </ul>]]>
+      </description>
+      <enclosure
+        url="https://www.techtendencias.com/guid_16032026.jpg"
+        length="140324"
+        type="image/jpeg"/>
+      <pubDate>Mon, 16 Mar 2026 10:00:00 GMT</pubDate>
+      <author>m.aguilar@techtendencias.com (Maria Aguilar)</author>
+      <category>apple</category>
+      <category>portatil</category>
+      <category>tendencia</category>
+      <guid isPermaLink="false">16032026</guid>
+    </item>
+</channel>
+</rss>
